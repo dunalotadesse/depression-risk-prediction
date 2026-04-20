@@ -32,9 +32,6 @@ The model predicts depression risk with reasonable accuracy, showing how data sc
 ##  Social Impact
 Mental health is a global challenge. This project highlights how data-driven approaches can support early detection and intervention.
 
-## Sample Output
-![Visualization](screenshot.png)
-
 ## Data Source
 Dataset obtained from Kaggle for educational purposes.
 
